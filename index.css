@@ -109,6 +109,16 @@
     background-blend-mode: darken;
     height: 50vh;
 }
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3em;
+}
+.footer p{
+    font-size: 2em;
+    margin-left: 5em;
+}
+
 
 
 
