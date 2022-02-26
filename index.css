@@ -94,5 +94,21 @@
     font-size: 2em;
     margin-top: 2em;  
 }
+.hobbs{
+    display: flex;
+    font-size: 2em;
+    justify-content: space-between;
+    margin-top: 3em;
+    margin-left: 2em;
+}
+.hobbs{
+    background-image: url("/images/hobbies.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 50vh;
+}
+
 
 
