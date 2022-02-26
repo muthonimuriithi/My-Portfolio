@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    display: flex;
+    margin-bottom: 5em;
+}
+.p1{
+    border-radius: 50%;
+    height: 35em;
+    margin-left: 7em;
+    margin-top: 3em;
+}
+#head2{
+    margin-top: 5em;
+    margin-left: 5em;
+    font-size: 3em;
+}
+.l{
+    margin-bottom: 35px;
+    color: darkmagenta;
+}
+#head2 span{
+    color: orangered;
+}
