@@ -44,3 +44,29 @@
     font-size: 4em;
     margin-top: 3em;
 }
+.proj{
+    display: flex;
+    padding-top: 5em;
+}
+#tin{
+    margin-top: 5em;
+    margin-left: 18em;
+    font-size: 2em;
+}
+#proj1{
+    box-shadow: 0px 0px 5px grey;
+    border-radius: 15px;
+    margin-right: 7em;
+    margin-left: 3em;
+}
+#proj2{
+    box-shadow: 0px 0px 5px grey;
+    border-radius: 20px;  
+}
+#proj1 p{
+    font-size: 2em;
+    margin-top: 2em;
+    margin-left: 5em;
+}
+
+
