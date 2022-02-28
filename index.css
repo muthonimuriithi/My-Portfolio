@@ -119,14 +119,14 @@
     font-size: 2em;
     margin-left: 5em;
 }
-@media screen and (max-width: 500px) {
+ @media screen and (max-width: 500px) {
     body{
         background-color: yellow;
     }
-    .whole {
+    .container {
      display: flex;
      flex-direction: column;   
-    }
+    } 
 }
 
 
